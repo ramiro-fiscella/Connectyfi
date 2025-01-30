@@ -8,7 +8,7 @@ const SignUp = () => {
           <img
             src="./assets/img/connectyfi-img.jpeg"
             alt="ConnectyFi Logo"
-            className="mx-auto mb-4"
+            className="mx-auto w-32"
           />
           <h1 className="font-bold text-2xl text-blue-600">
             Register to ConnectyFi
